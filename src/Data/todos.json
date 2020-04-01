@@ -1,0 +1,24 @@
+{
+    "todos":[
+    {
+        "title": "Tasks 1",
+        "responsible": "Mark",
+        "description": "Loren impsun",
+        "priority": "low"
+
+    },
+    {
+        "title": "Tasks 2",
+        "responsible": "Pedro",
+        "description": "Loren 2",
+        "priority": "medium"
+
+    }, 
+    {
+        "title": "Tasks 3",
+        "responsible": "Jesus",
+        "description": "Loren impsun3",
+        "priority": "high"
+
+    }]
+}
