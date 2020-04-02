@@ -38,7 +38,9 @@ class App extends Component {
           <Fichas/>
 
           Este es la diferencia que utilizare entre las versiones 
-          
+
+
+          Salio algo  mal de la prueba 1 haremos una prueba 2
         
         </div>
       </div>
